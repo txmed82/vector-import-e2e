@@ -1,0 +1,10 @@
+format_version = "1"
+id = "txmed82/counterfactual-e2e"
+dataset_version = "1"
+headline = "counterfactual_recovery"
+phi_class = "public"
+description = "Public end-to-end fixture for Vector dataset import acceptance."
+
+tasks = [
+  ".",
+]
